@@ -23,7 +23,7 @@ Thanks for the contribution from open source community who have developed Arduin
 * 1 DC port for power/configure
 * Power jack for 5V power input
 * Compatible with [Arduino programming](https://github.com/pcduino/LinkNodeD1)
-* ompatible with [NodeMCU](http://www.nodemcu.com/index_cn.html)
+* Compatible with [NodeMCU](http://www.nodemcu.com/index_cn.html)
 * OTA -- Wireless Upload(Program)
 
 ### Tutorials
